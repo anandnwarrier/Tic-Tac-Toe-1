@@ -317,7 +317,7 @@ int main()
     for(int i=0;i<200000;i++)
     {
     //reconstruct saved board states   
-    const char *s="table5.txt";
+    const char *s="table.txt";
     struct board *start=reconstruct(s);
 
     int *startstate=new int[9];
