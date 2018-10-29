@@ -5,6 +5,6 @@
 
 ### Running the Code
 #### To play a game against the agent, run:
-#### ```./tictactoe.cpp```</br>
+#### ```./tictactoe.cpp```</br></br>
 
 #### Note: The agent always starts and plays with 'X'. You play 'O'.
