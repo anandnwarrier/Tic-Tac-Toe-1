@@ -9,4 +9,6 @@
 #### To execute, run:
 #### ```./tictactoe```</br></br>
 
-#### Note: The agent always starts and plays with 'X'. You play 'O'.
+#### Notes: 
+#### The agent always starts and plays with 'X' (represented as 1). You play 'O' (represented as 0).
+#### Actions are the position you would like to place 0 on the board. Reading the positions from left to right and up to down, they are represented by the integers 0-9.
