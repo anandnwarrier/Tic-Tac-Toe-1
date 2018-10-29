@@ -4,7 +4,9 @@
 #### </br>
 
 ### Running the Code
-#### To play a game against the agent, run:
-#### ```./tictactoe.cpp```</br></br>
+#### To play a game against the agent, compile the code via:
+#### ```g++ tictactoe.cpp -o tictactoe```
+#### To execute, run:
+#### ```./tictactoe```</br></br>
 
 #### Note: The agent always starts and plays with 'X'. You play 'O'.
