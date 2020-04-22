@@ -42,6 +42,7 @@ struct board *newBoard(int *state)
     }
 
     newb->next=0;
+    return newb;
 }
 
 
