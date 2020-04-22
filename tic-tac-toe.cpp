@@ -2,6 +2,7 @@
 #include<fstream>
 #include<string>
 #include<stdlib.h>
+#include<time.h>
 using namespace std;
 
 struct board
@@ -42,6 +43,7 @@ struct board *newBoard(int *state)
     }
 
     newb->next=0;
+    return newb;
 }
 
 
